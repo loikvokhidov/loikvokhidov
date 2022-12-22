@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loikvokhidov
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning frontend development
+- 👀 I’m interested in Innovative SaaS applications
+- 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me loik.vokhidov@gmail.com
 
